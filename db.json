@@ -1,0 +1,27 @@
+{
+  "plywoods": [
+    {
+      "measurement": "7x4",
+      "mm": "19",
+      "company": "Shatabdi",
+      "stock": "813",
+      "id": 1
+    },
+    {
+      "measurement": "7x3",
+      "mm": "12",
+      "company": "ABC",
+      "stock": "12",
+      "id": 2
+    },
+    {
+      "measurement": "7x3",
+      "mm": "10",
+      "company": "Century",
+      "stock": "62",
+      "id": 3
+    }
+  ],
+  "doors": [],
+  "boards": []
+}
